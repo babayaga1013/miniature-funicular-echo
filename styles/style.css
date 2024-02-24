@@ -1,6 +1,9 @@
 @import url('https://fonts.googleapis.com/css2?family=Pacifico&display=swap');
 
+
 @import url('https://fonts.googleapis.com/css2?family=Pacifico&family=Shrikhand&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Honk&display=swap');
+
 body {
     margin: 0;
     background-color: #030303;
@@ -20,8 +23,9 @@ background-image: url("data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/s
     background-color: #fa00f6;
     padding: 20px;
     border-radius: 10px;
-    width: calc(33.33% - 100px);
+    width: calc(40% - 100px);
     margin-bottom: 20px;
+    font-family: 'Honk', system-ui;
     text-align: center;
   }
 
